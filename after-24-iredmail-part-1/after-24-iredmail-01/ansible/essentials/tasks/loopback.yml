@@ -1,8 +1,0 @@
-- name: loopback address
-  ansible.builtin.copy:
-    src: files/11-lo.network
-    dest: /etc/systemd/network/11-lo.network
-    owner: root
-    group: root
-    mode: '644'
-  notify: restart systemd-networkd

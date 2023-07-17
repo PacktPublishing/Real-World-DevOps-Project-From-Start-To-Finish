@@ -1,2 +1,0 @@
-- name: restart wg-do-p
-  systemd: "name=wg-quick@wg-do-p.service state=restarted"

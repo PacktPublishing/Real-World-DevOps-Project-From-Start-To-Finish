@@ -1,8 +1,0 @@
-- name: restart sshd
-  systemd: "name=sshd state=restarted"
-
-- name: restart iptables
-  systemd: "name=iptables state=restarted"
-
-- name: restart docker
-  systemd: "name=docker state=restarted"
