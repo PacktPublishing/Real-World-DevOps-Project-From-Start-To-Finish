@@ -1,6 +1,9 @@
 # Real-World-DevOps-Project-From-Start-To-Finish
 Real-World DevOps Project From Start To Finish, by Packt Publishing
 
+All the course files and resources required for this course are avaialable here:
+https://github.com/predmijat/realworlddevopscourse
+
 Embark on a transformative DevOps journey! This comprehensive course equips you with skills in Ansible, Docker, GitLab, backups, and more. Master the art of self-hosting your infrastructure, streamlining deployments, and boosting efficiency. Launch your DevOps career today and unleash the endless possibilities!
 
 A DevOps project combines development and operations to streamline software delivery, emphasizing collaboration, automation, and continuous integration/deployment. It enables faster, reliable releases and efficient infrastructure management, fostering a culture of agility and innovation.
